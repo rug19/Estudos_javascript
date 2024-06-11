@@ -1,0 +1,9 @@
+.main_title {
+background-color: yellow;
+}
+
+.card {
+    background-color: orange;
+    width: 400px;
+    height: 300px;
+}
